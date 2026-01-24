@@ -1,0 +1,16 @@
+
+
+// 质问肝癌
+dialog _si_key_dia_1_质问贝内特肝癌 {
+
+}
+
+// 质问枪声
+dialog _si_key_dia_2_质问贝内特枪声 {
+    
+}
+
+// 质问动机
+dialog _si_key_dia_3_质问贝内特的杀人动机 {
+    
+}
