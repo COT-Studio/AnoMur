@@ -1,6 +1,6 @@
 {
     "rootFile": "./ksm/src/index.ksm",
-    "outFile": "./ksm/dist/匿名凶案.ksmd.txt",
+    "outFile": "./ksm/dist/AnoMur.ksmd.txt",
     "handleImportButNoPathError": "panic",
     "handleNewlineInString": "replace-by-backslash-n",
     "handleIndentInString": "remove",
