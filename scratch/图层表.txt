@@ -1,3 +1,0 @@
-top manager		-1
-main.__main__		0
-txt ruler		100000
